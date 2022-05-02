@@ -1,2 +1,2 @@
-# FastlaneCodeSnippets
-Code snippets for fastlane
+# FastlaneCodeSnippets by Ficow
+Code snippets for fastlane.
